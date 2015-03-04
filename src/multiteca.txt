@@ -1,0 +1,4 @@
+M.numObras|M.multiteca|O.titulo|O.autor|O.anoEdicion|A.nombre|A.anoNacimiento|D.discografia|D.nCanciones|L.editorial|L.numPaginas|P.productora|P.interpretes
+
+
+1,1* Obratitulo,ObraAutor,AnoEdicion# Anombre,1998% lalaa,5; Leditorial,20| prod,pepe
